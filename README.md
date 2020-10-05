@@ -4,6 +4,8 @@ A scripts who aim to predict some cryptocurrency like bitcoin.  You just need to
 
 You can specify any currency you want between : "BTC-USD", "LTC-USD", "BCH-USD", "ETH-USD"
 
+In another words :  Bitcoin, Ethereum, Litecoin and Bitcoin Cash.
+
 This kind of work is really useful in term of business value. Stock prices are really volatile, hence very hard to predict so it's very appreciated for companies if you know the tricks. Moreover it's a very powerful way to train yourself because like I said previously, stock prices are strongly volatile and it's quite impossible to predict perfectly.
 
 
